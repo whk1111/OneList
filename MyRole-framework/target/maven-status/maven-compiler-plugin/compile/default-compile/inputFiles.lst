@@ -1,0 +1,17 @@
+D:\MyRole\MyRole-framework\src\main\java\org\javaboy\config\PageConfig.java
+D:\MyRole\MyRole-framework\src\main\java\org\javaboy\service\Impl\RoleServiceImpl.java
+D:\MyRole\MyRole-framework\src\main\java\org\javaboy\config\SwaggerConfig.java
+D:\MyRole\MyRole-framework\src\main\java\org\javaboy\service\Impl\UserServiceImpl.java
+D:\MyRole\MyRole-framework\src\main\java\org\javaboy\service\UserService.java
+D:\MyRole\MyRole-framework\src\main\java\org\javaboy\Utils\JWTUtils.java
+D:\MyRole\MyRole-framework\src\main\java\org\javaboy\config\InterceptorConfig.java
+D:\MyRole\MyRole-framework\src\main\java\org\javaboy\Interceptor\JWTInterceptor.java
+D:\MyRole\MyRole-framework\src\main\java\org\javaboy\service\RoleService.java
+D:\MyRole\MyRole-framework\src\main\java\org\javaboy\controller\UserController.java
+D:\MyRole\MyRole-framework\src\main\java\org\javaboy\controller\RoleController.java
+D:\MyRole\MyRole-framework\src\main\java\org\javaboy\MyRoleApplication.java
+D:\MyRole\MyRole-framework\src\main\java\org\javaboy\domain\Role.java
+D:\MyRole\MyRole-framework\src\main\java\org\javaboy\domain\User.java
+D:\MyRole\MyRole-framework\src\main\java\org\javaboy\mapper\RoleMapper.java
+D:\MyRole\MyRole-framework\src\main\java\org\javaboy\domain\AssumeRole.java
+D:\MyRole\MyRole-framework\src\main\java\org\javaboy\mapper\UserMapper.java
